@@ -1,4 +1,5 @@
-####To un the code
+####To run the code
+
 python app.py
 
 ****Input values:****
